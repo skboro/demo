@@ -1,8 +1,8 @@
 # sellerapp assignment
 
-Database used : MySQL
-Build and run both services individually.
-Verify the config files for the db connection info.
+- Database used : MySQL
+- Build and run both services individually.
+- Verify the config files for the db connection info.
 
 ## User management and auth
 - `demo-user-mgmt` is the service
